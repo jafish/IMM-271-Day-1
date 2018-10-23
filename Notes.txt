@@ -1,0 +1,7 @@
+2018-10-23 - IMM 271 Notes
+
+The default editor for commit messages is VIM, which is super confusing to use.
+
+Type "i" to start inserting text, then type your commit message.
+Then, hit escape to exit the editing mode.
+Then, type ":wq", then enter to save and exit.
